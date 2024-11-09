@@ -2,7 +2,8 @@
 
 - 🔭 I'm a front-end development student at Medieinstitutet in Göteborg.
 - 👨‍💻 I aspire to create intuitive and dynamic user interfaces.
-- 🌱 I am currently interested in React, Next.js and responsive design using libraries like Styled-Components, Chakra UI, and Tailwind CSS. 
+- 🌱 I am currently interested in React, Next.js and responsive design using libraries like Styled-Components, Chakra UI, and Tailwind CSS.
+-  📱 I’ve recently rediscovered my passion for mobile development, now building with React Native!
 
 
 <h3 align="left">Languages and Tools:</h3>
