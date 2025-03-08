@@ -4,7 +4,7 @@
 - 🚀 Frontend Developer with experience in building modern web applications
 - 💻 Currently completing an internship at Nexer Group Gothenburg
 - 🔧 Technical toolkit includes React, Next.js, TypeScript, and state management with Zustand
-- 📱 Passionate about cross-platform development with experience in both React Native and Angular
+- 📱 Passionate about cross-platform development with experience in React Native
 - 🎨 Dedicated to creating intuitive, responsive UIs that enhance user experience
 
 ## Technical Focus
