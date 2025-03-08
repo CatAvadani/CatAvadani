@@ -1,10 +1,17 @@
 <h1 align="left">Hi 👋, I'm Catalina Avadani</h1>
 
-- 🔭 I'm a front-end development student at Medieinstitutet in Göteborg.
-- 👨‍💻 I aspire to create intuitive and dynamic user interfaces.
-- 🌱 I am currently interested in React, Next.js and responsive design using libraries like Styled-Components, Chakra UI, and Tailwind CSS.
--  📱 I’ve recently rediscovered my passion for mobile development, now building with React Native!
+## About Me
+- 🚀 Frontend Developer with experience in building modern web applications
+- 💻 Currently completing an internship at Nexer Group Gothenburg
+- 🔧 Technical toolkit includes React, Next.js, TypeScript, and state management with Zustand
+- 📱 Passionate about cross-platform development with experience in both React Native and Angular
+- 🎨 Dedicated to creating intuitive, responsive UIs that enhance user experience
 
+## Technical Focus
+- 🛠️ Responsive design with Tailwind CSS, SCSS and modern component architecture
+- 🔄 State management patterns and performance optimization
+- 🌐 Server-side rendering and API integration
+- 📊 Creating reusable, maintainable UI component systems
 
 <h3 align="left">Languages and Tools:</h3>
 
