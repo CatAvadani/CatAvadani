@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Catalina Avadani</h1>
+# Hi 👋, I'm Catalina Avadani
 
 ## About Me
 - 🚀 Frontend Developer with experience in building modern web applications
@@ -13,12 +13,31 @@
 - 🌐 Server-side rendering and API integration
 - 📊 Creating reusable, maintainable UI component systems
 
-<h3 align="left">Languages and Tools:</h3>
-
-  <p align="left">
+## Languages and Tools:
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,css,html,tailwind,styledcomponents,materialui,mongodb,postgres,prisma,cypress,nodejs,express,figma,git,github,gradle,kotlin,androidstudio,vscode&perline=12" />
+    <img height="80em" src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwindcss,html,css,sass,materialui,mongodb,postgresql,nodejs,express,figma,git,github,kotlin,androidstudio,vscode&theme=light&perline=12" />
   </a>
 </p>
 
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catavadani&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+    <img height="180em" src="https://streak-stats.demolab.com/?user=catavadani&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catavadani&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  
+</div>
+
+<div align="center">
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=catavadani&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<!-- Additional tracking pixel (hidden but functional) -->
+![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
