@@ -1,17 +1,19 @@
 # Hi 👋, I'm Catalina Avadani
 
 ## About Me
-- 🚀 Frontend Developer with experience in building modern web applications
-- 💻 Currently completing an internship at Nexer Group Gothenburg
-- 🔧 Technical toolkit includes React, Next.js, TypeScript, and state management with Zustand
-- 📱 Passionate about cross-platform development with experience in React Native
-- 🎨 Dedicated to creating intuitive, responsive UIs that enhance user experience
+- 🚀 Frontend Developer passionate about building modern, user-friendly web applications
+- 🔧 Skilled in React, Next.js, TypeScript, Tailwind CSS, and SCSS
+- 📱 Experience in cross-platform development with React Native
+- ♿ Committed to building accessible interfaces following WCAG 2.1 standards and best UX practices
+- 🎨 Focused on creating responsive, intuitive, and inclusive user experiences
 
 ## Technical Focus
 - 🛠️ Responsive design with Tailwind CSS, SCSS and modern component architecture
-- 🔄 State management patterns and performance optimization
-- 🌐 Server-side rendering and API integration
-- 📊 Creating reusable, maintainable UI component systems
+- 🔄 Efficient state management and performance optimization
+- 🌐 API integration and server-side rendering techniques
+- 📊 Developing reusable, scalable UI component systems
+- 🧪 Practical experience with usability testing, accessibility evaluation, and design iteration
+ 
 
 ## Languages and Tools:
 <p align="left">
