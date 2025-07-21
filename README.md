@@ -51,11 +51,17 @@
 ## 📊 GitHub Analytics
 
 <table align="center">
-<tr>
-<td><img height="150" width="300" src="https://github-readme-stats.vercel.app/api?username=catavadani&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&card_width=280"/></td>
-<td><img height="150" width="340" src="https://streak-stats.demolab.com/?user=catavadani&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/></td>
-<td><img height="150" width="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catavadani&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=280"/></td>
-</tr>
+  <tr>
+    <td>
+      <img height="145em" src="https://github-readme-stats.vercel.app/api?username=catavadani&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=da70d6&icon_color=ff8c00&text_color=c9d1d9&include_all_commits=true" alt="Stats"/>
+    </td>
+    <td>
+      <img height="145em" src="https://streak-stats.demolab.com/?user=catavadani&theme=vue-dark&hide_border=true&background=0d1117&stroke=da70d6&ring=ff8c00&fire=ff8c00&currStreakLabel=da70d6" alt="Streak"/>
+    </td>
+    <td>
+      <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catavadani&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=da70d6&text_color=c9d1d9&langs_count=6" alt="Top Langs"/>
+    </td>
+  </tr>
 </table>
 
 ---
