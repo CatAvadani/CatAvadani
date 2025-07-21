@@ -66,8 +66,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=catavadani&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=catavadani&color=da70d6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:ff69b4,100:ff8c00&height=100&section=footer&width=100%" />
