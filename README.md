@@ -5,7 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:ff69b4,100:ff8c00&height=100&section=header&width=100%" />
 </p>
 
-
 ## About Me
 - 🚀 Frontend Developer passionate about building modern, user-friendly web applications
 - 🔧 Skilled in React, Next.js, TypeScript, Tailwind CSS, and SCSS
