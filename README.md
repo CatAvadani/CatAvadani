@@ -21,6 +21,11 @@
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=97651171)
+<img src="https://hits.sh/github.com/catavadani/transparent.png" width="1" height="1" />
+<!-- 
+https://hits.sh/github.com/catavadani
+ -->
+
 
 
 
@@ -94,5 +99,4 @@
 </p>
 
 
-<!-- Additional tracking pixel (hidden but functional) -->
-![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
+
