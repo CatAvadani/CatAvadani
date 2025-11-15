@@ -5,6 +5,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:ff69b4,100:ff8c00&height=100&section=header&width=100%" />
 </p>
 
+
+## Portfolio
+
+ Check out my personal website:  
+<p align="left">
+
+  <!-- Button -->
+ 👉  <a href="https://catalinaavadani.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Visit%20Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Visit Portfolio"
+    />
+  </a>
+</p>
+
+![](https://hit.yhype.me/github/profile?user_id=97651171)
+
+
+
 ## About Me
 - 🚀 Frontend Developer passionate about building modern, user-friendly web applications
 - 🔧 Skilled in React, Next.js, TypeScript, Tailwind CSS, and SCSS
@@ -65,13 +84,15 @@
 </table>
 
 ---
-
+<!--
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=catavadani&color=da70d6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
+--!>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:ff69b4,100:ff8c00&height=100&section=footer&width=100%" />
 </p>
+
 
 <!-- Additional tracking pixel (hidden but functional) -->
 ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
