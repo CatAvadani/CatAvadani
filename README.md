@@ -77,16 +77,26 @@ https://hits.sh/github.com/catavadani
 <table align="center">
   <tr>
     <td>
-      <img height="145em" src="https://github-readme-stats.vercel.app/api?username=catavadani&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=da70d6&icon_color=ff8c00&text_color=c9d1d9&include_all_commits=true" alt="Stats"/>
+      <img height="200em" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catavadani&theme=vue"
+        alt="Profile Details"
+      />
     </td>
     <td>
-      <img height="145em" src="https://streak-stats.demolab.com/?user=catavadani&theme=vue-dark&hide_border=true&background=0d1117&stroke=da70d6&ring=ff8c00&fire=ff8c00&currStreakLabel=da70d6" alt="Streak"/>
+      <img height="200em" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=catavadani&theme=vue&utcOffset=1"
+        alt="Productive Time"
+      />
     </td>
     <td>
-      <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catavadani&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=da70d6&text_color=c9d1d9&langs_count=6" alt="Top Langs"/>
+      <img height="200em"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=catavadani&theme=vue"
+        alt="Languages by Repo"
+      />
     </td>
   </tr>
 </table>
+
 
 ---
 <!--
