@@ -74,28 +74,33 @@ https://hits.sh/github.com/catavadani
 
 ## 📊 GitHub Analytics
 
-<table align="center">
+<table align="center" style="border-collapse: separate; border-spacing: 20px 0;">
   <tr>
     <td>
-      <img height="200em" 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catavadani&theme=vue"
-        alt="Profile Details"
+      <img height="190em"
+        style="border-radius: 12px;"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catavadani&theme=monokai"
       />
     </td>
     <td>
-      <img height="200em" 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=catavadani&theme=vue&utcOffset=1"
-        alt="Productive Time"
+      <img height="190em"
+        style="border-radius: 12px;"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=catavadani&theme=monokai&utcOffset=1"
       />
     </td>
     <td>
-      <img height="200em"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=catavadani&theme=vue"
-        alt="Languages by Repo"
+      <img height="190em"
+        style="border-radius: 12px;"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=catavadani&theme=monokai"
       />
     </td>
   </tr>
 </table>
+
+
+
+
+
 
 
 ---
