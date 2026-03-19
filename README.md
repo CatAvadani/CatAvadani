@@ -59,17 +59,30 @@
 
 ---
 
+---
+
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" style="border-radius: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catavadani&theme=monokai" />
-  &nbsp;&nbsp;
-  <img height="180em" style="border-radius: 10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=catavadani&theme=monokai" />
+  <table align="center" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="padding: 10px; border: none;">
+        <img height="185px" 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catavadani&theme=monokai" 
+          style="border-radius: 10px;" 
+        />
+      </td>
+      <td style="padding: 10px; border: none;">
+        <img height="185px" 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=catavadani&theme=monokai" 
+          style="border-radius: 10px;" 
+        />
+      </td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:ff69b4,100:ff8c00&height=100&section=footer&width=100%" />
-</p>
+---
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=catavadani&color=8a2be2&style=flat-square&label=PROFILE+VIEWS" />
