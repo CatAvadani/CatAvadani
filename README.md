@@ -84,6 +84,3 @@
 
 ---
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=catavadani&color=8a2be2&style=flat-square&label=PROFILE+VIEWS" />
-</p>
