@@ -77,21 +77,15 @@ https://hits.sh/github.com/catavadani
 <table align="center" style="border-collapse: separate; border-spacing: 28px 0;">
   <tr>
     <td style="padding: 0;">
-      <img height="180em"
-        style="border-radius: 14px;"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catavadani&theme=monokai"
+      <img height="180em" 
+        style="border-radius: 14px;" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catavadani&theme=monokai" 
       />
     </td>
     <td style="padding: 0;">
-      <img height="180em"
-        style="border-radius: 14px;"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=catavadani&theme=monokai&utcOffset=1"
-      />
-    </td>
-    <td style="padding: 0;">
-      <img height="180em"
-        style="border-radius: 14px;"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=catavadani&theme=monokai"
+      <img height="180em" 
+        style="border-radius: 14px;" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=catavadani&theme=monokai" 
       />
     </td>
   </tr>
