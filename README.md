@@ -59,9 +59,6 @@
 
 ---
 
----
----
----
 ## Featured Projects
 
 <table width="100%">
