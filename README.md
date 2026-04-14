@@ -60,27 +60,57 @@
 ---
 
 ---
+---
+---
+## Featured Projects
 
-## GitHub Analytics
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://seqoura.app/" target="_blank">🚀 Seqoura AI</a>
+      </h3>
+      <p>AI-powered email campaign builder — describe a campaign in plain language and get a structured, editable multi-email sequence ready to send. Built as an independent SaaS product with billing, scheduling, and contact management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://oulogoped.se/" target="_blank">🌐 OULogoped AB</a>
+      </h3>
+      <p>Professional website for a speech therapy clinic — perfect 100/100 Lighthouse score across all categories. Fully accessible, SEO-optimised with structured data, Google Search Console, and contact form via Resend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/WCAG_2.1-AA-brightgreen?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://job-search-assistant-xi.vercel.app/" target="_blank">🎯 AI Job Search Assistant</a>
+      </h3>
+      <p>Full-stack job search toolkit with AI resume optimisation, ATS scoring, smart job matching across Swedish and international markets, application tracking, and a career development dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- leave empty or add a 4th project here later -->
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <table align="center" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="padding: 10px; border: none;">
-        <img height="185px" 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=catavadani&theme=monokai" 
-          style="border-radius: 10px;" 
-        />
-      </td>
-      <td style="padding: 10px; border: none;">
-        <img height="185px" 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=catavadani&theme=monokai" 
-          style="border-radius: 10px;" 
-        />
-      </td>
-    </tr>
-  </table>
-</p>
 
 ---
 
