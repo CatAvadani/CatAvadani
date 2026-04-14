@@ -65,7 +65,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://seqoura.app/" target="_blank">🚀 Seqoura AI</a>
+        <a href="https://seqoura.app/" target="_blank">🚀 Seqoura</a>
       </h3>
       <p>AI-powered email campaign builder — describe a campaign in plain language and get a structured, editable multi-email sequence ready to send. Built as an independent SaaS product with billing, scheduling, and contact management.</p>
       <p>
