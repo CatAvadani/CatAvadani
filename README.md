@@ -89,23 +89,7 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://job-search-assistant-xi.vercel.app/" target="_blank">🎯 AI Job Search Assistant</a>
-      </h3>
-      <p>Full-stack job search toolkit with AI resume optimisation, ATS scoring, smart job matching across Swedish and international markets, application tracking, and a career development dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <!-- leave empty or add a 4th project here later -->
-    </td>
-  </tr>
+
 </table>
 
 
