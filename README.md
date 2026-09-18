@@ -16,25 +16,7 @@
   <img src="https://hit.yhype.me/github/profile?user_id=97651171" />
 </p>
 
----
 
-## About Me
-* **Frontend Developer** passionate about building modern, user-friendly web applications
-* **Skilled** in React, Next.js, TypeScript, Tailwind CSS, and SCSS
-* **Experience** in cross-platform development with React Native
-* **Committed** to building accessible interfaces following WCAG 2.1 standards
-* **Focused** on creating responsive, intuitive, and inclusive user experiences
-
----
-
-## Technical Focus
-* **Architecture**: Responsive design with Tailwind CSS, SCSS, and modern component architecture
-* **State & Performance**: Efficient state management and performance optimization
-* **Integration**: API integration and server-side rendering techniques
-* **Scalability**: Developing reusable, scalable UI component systems
-* **UX Strategy**: Practical experience with usability testing and accessibility evaluation
-
----
 
 ## Languages and Tools
 
